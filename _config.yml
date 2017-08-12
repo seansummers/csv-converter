@@ -130,3 +130,5 @@ support_footer: I pay my bills by consulting on API projects, and writing white 
 about_title: About This Micro Tool
 about_header: I develop my apps and tools like I develop my APIs, as small bite-size pieces of code that do one thing, and does it well -- nothing more. This is one of my many micro tools which runs almost 100% on Github. They all use HTML, CSS, Jekyll, YAML, and JSON that runs using Jekyll via Github Pages. When necessary I use the Github API as the back-end storage for the API, taking advantage of the JSON and YAML capabilities of Jekyll, when hosted via Github.
 about_footer: I use my own approach to delivering these micro tools, but that approach employs simple, static content, and structured data via JSON and YAML. When I need more advanced compute than JavaScript affords me, I develop an API, but only as a last resort. My objective is to create tools that any can fork into their own environment, and runs in their own tooling stack. If you need help with any of my apps, or with developing apps in this way, feel free to leave an issue / comment.
+
+theme: jekyll-theme-slate
